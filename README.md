@@ -126,19 +126,5 @@
 </p> -->
 
 <br>
-<h3 align="left">GitHub Contributions:</h3>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dist/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./dist/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
-<br>
-
-<hr>
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=e19166&label=Profile%20Views&color=blue&style=flat-square" alt="e19166"/>
-</p>
 
 ![](https://hit.yhype.me/github/profile?user_id=11540782)

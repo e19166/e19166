@@ -138,7 +138,7 @@
 
 <hr>
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=e19166&label=Profile%20Views&color=blue&style=flat-square" alt="e19166" />
+    <img src="https://komarev.com/ghpvc/?username=e19166&label=Profile%20Views&color=blue&style=flat-square" alt="e19166"/>
 </p>
 
 ![](https://hit.yhype.me/github/profile?user_id=11540782)
